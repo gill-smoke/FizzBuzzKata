@@ -18,3 +18,4 @@ It should ask for it's place in turn order.
 Then it should display the correct list of turns starting with the first player, differentiating it's turn in some way.
 Then it should prompt for a rule or quit.
 
+- [ ] Are there any typos here
